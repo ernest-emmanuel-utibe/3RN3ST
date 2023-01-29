@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/ComparingIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Arithmetic_Smallest_Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/DiameterCircumferenceAreaOfACircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Divisible_By_Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Largest_Smallest_Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Multiples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2To4/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2To4/Arithmetic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2To4.Arithmetic" />
+}]]></component>
+  <component name="RunManager" selected="Application.DiameterCircumferenceAreaOfACircle">
+    <configuration name="Arithmetic_Smallest_Largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2To4.Arithmetic_Smallest_Largest" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparingIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2To4.ComparingIntegers" />
+    <configuration name="DiameterCircumferenceAreaOfACircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2To4.DiameterCircumferenceAreaOfACircle" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
@@ -72,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetermineLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.DetermineLeapYear" />
+    <configuration name="Divisible_By_Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2To4.Divisible_By_Three" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfPractice.*" />
+          <option name="PATTERN" value="Chapter2To4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.Factorial" />
+    <configuration name="Largest_Smallest_Integers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2To4.Largest_Smallest_Integers" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfPractice.*" />
+          <option name="PATTERN" value="Chapter2To4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.FibonacciSeries" />
+    <configuration name="Multiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2To4.Multiples" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfPractice.*" />
+          <option name="PATTERN" value="Chapter2To4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComparingIntegers" />
-        <item itemvalue="Application.Arithmetic" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.DetermineLeapYear" />
+        <item itemvalue="Application.DiameterCircumferenceAreaOfACircle" />
+        <item itemvalue="Application.Multiples" />
+        <item itemvalue="Application.Divisible_By_Three" />
+        <item itemvalue="Application.Largest_Smallest_Integers" />
+        <item itemvalue="Application.Arithmetic_Smallest_Largest" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +138,7 @@
       <workItem from="1674750007218" duration="52000" />
       <workItem from="1674764781649" duration="5109000" />
       <workItem from="1674858154089" duration="9187000" />
-      <workItem from="1674926763822" duration="7800000" />
+      <workItem from="1674926763822" duration="12512000" />
     </task>
     <servers />
   </component>
