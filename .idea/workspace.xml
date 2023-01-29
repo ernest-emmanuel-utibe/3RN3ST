@@ -5,10 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/BodyMassIndexCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Table_Of_Squares_And_Cubes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/WorldPopulationGrowth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/CheckerBoardPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/ConvertingNumbersToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/CreditLimitCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/GasMilage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/HealthProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/HeartRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/NumberOfYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/PetrolPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Reading_Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Right_Angled_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Sales_Commission_Cal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Tax_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/TwoLargestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/Bubble_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/DiamondPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/Extremes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/TortoiseAndHare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/TortoiseAndHareMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Chapter2To4/HealthProfileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Chapter2To4/HeartRateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Chapter2To4/PetrolPurchaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Chapter5to7/Bubble_SortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ErnestEmmanuel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ErnestEmmanuel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5to7/SumOfSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5to7/SumOfSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5to7/TrianglePrintingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5to7/TrianglePrintingProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +42,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -36,10 +60,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,9 +77,31 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WorldPopulationGrowth">
-    <configuration name="BodyMassIndexCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2To4.BodyMassIndexCalculator" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Chapter5to7" />
+      <recent name="Chapter2To4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DiamondPrinting">
+    <configuration name="DiamondPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5to7.DiamondPrinting" />
+      <module name="ErnestEmmanuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter5to7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthProfileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2To4.HealthProfileTest" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiameterCircumferenceAreaOfACircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2To4.DiameterCircumferenceAreaOfACircle" />
+    <configuration name="NumberOfYears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2To4.NumberOfYears" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2To4.Multiples" />
+    <configuration name="SumOfSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5to7.SumOfSeries" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2To4.*" />
+          <option name="PATTERN" value="Chapter5to7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,25 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Table_Of_Squares_And_Cubes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2To4.Table_Of_Squares_And_Cubes" />
+    <configuration name="TrianglePrintingProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5to7.TrianglePrintingProgram" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2To4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WorldPopulationGrowth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2To4.WorldPopulationGrowth" />
-      <module name="ErnestEmmanuel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter2To4.*" />
+          <option name="PATTERN" value="Chapter5to7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WorldPopulationGrowth" />
-        <item itemvalue="Application.BodyMassIndexCalculator" />
-        <item itemvalue="Application.Table_Of_Squares_And_Cubes" />
-        <item itemvalue="Application.DiameterCircumferenceAreaOfACircle" />
-        <item itemvalue="Application.Multiples" />
+        <item itemvalue="Application.DiamondPrinting" />
+        <item itemvalue="Application.SumOfSeries" />
+        <item itemvalue="Application.TrianglePrintingProgram" />
+        <item itemvalue="Application.NumberOfYears" />
+        <item itemvalue="Application.HealthProfileTest" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +174,7 @@
       <workItem from="1674750007218" duration="52000" />
       <workItem from="1674764781649" duration="5109000" />
       <workItem from="1674858154089" duration="9187000" />
-      <workItem from="1674926763822" duration="13844000" />
+      <workItem from="1674926763822" duration="21903000" />
     </task>
     <servers />
   </component>

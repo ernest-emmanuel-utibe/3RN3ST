@@ -48,5 +48,24 @@ public class TrianglePrintingProgram {
             }
             System.out.println();
         }
+
+        for (int i = 1; i <= 10; i++) {
+            System.out.print("*".repeat(i));
+            System.out.print(" ".repeat(10 - i));
+            System.out.print(" ");
+
+            System.out.print("*".repeat(11 - i));
+            System.out.print(" ".repeat(i - 1));
+            System.out.print(" ");
+
+            System.out.print(" ".repeat(i - 1));
+            System.out.print("*".repeat(11 - i));
+            System.out.print(" ");
+
+            System.out.print(" ".repeat(10 - i));
+            System.out.print("*".repeat(i));
+            System.out.println();
+
+        }
     }
 }
