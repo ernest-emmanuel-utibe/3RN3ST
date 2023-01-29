@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/CheckerBoardPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/ConvertingNumbersToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/CreditLimitCal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/GasMilage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/HealthProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/HeartRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/NumberOfYears.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/PetrolPurchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Reading_Integers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Right_Angled_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Sales_Commission_Cal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/Tax_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2To4/TwoLargestNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/Bubble_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/DiamondPrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/Extremes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/TortoiseAndHare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/TortoiseAndHareMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Chapter2To4/HealthProfileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Chapter2To4/HeartRateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Chapter2To4/PetrolPurchaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Chapter5to7/Bubble_SortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ErnestEmmanuel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ErnestEmmanuel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5to7/SumOfSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5to7/SumOfSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5to7/TrianglePrintingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5to7/TrianglePrintingProgram.java" afterDir="false" />
-    </list>
+    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +146,7 @@
       <workItem from="1674750007218" duration="52000" />
       <workItem from="1674764781649" duration="5109000" />
       <workItem from="1674858154089" duration="9187000" />
-      <workItem from="1674926763822" duration="21903000" />
+      <workItem from="1674926763822" duration="22308000" />
     </task>
     <servers />
   </component>
