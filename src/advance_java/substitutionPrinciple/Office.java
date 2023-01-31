@@ -1,4 +1,4 @@
-package arrays.substitutionPrinciple;
+package advance_java.substitutionPrinciple;
 
 public class Office extends Building{
 

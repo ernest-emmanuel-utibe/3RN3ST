@@ -1,4 +1,4 @@
-package arrays.substitutionPrinciple;
+package advance_java.substitutionPrinciple;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,7 +19,7 @@ public class Main {
         List<Office> offices = new ArrayList<>();
         offices.add(new Office());
         offices.add(new Office());
-        build(offices);
+//        build(offices);
     }
 
     private static void build(Building building) {

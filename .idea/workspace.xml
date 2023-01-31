@@ -5,15 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/generics/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/generics/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/generics/Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/substitutionPrinciple/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/substitutionPrinciple/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/substitutionPrinciple/Office.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/CalculateMealPerPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/DeveloperTeaTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/functionalInterface/GreetingMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/functionalInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/hashmap/Phone_Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/hashmap/Phonebook2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/linkedLists/Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/queue/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/queue/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/wildcards/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/wildcards/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/wildcards/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advance_java/wildcards/Office.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/generics/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advance_java/generics/GenericMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/generics/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advance_java/generics/Generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/generics/Varargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advance_java/generics/Varargs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/substitutionPrinciple/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advance_java/substitutionPrinciple/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/substitutionPrinciple/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advance_java/substitutionPrinciple/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/substitutionPrinciple/Office.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advance_java/substitutionPrinciple/Office.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +77,13 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Varargs">
+  <component name="RunManager" selected="Application.Linked_List">
     <configuration name="CalculateAreaOfATriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="selfPractice.CalculateAreaOfATriangle" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.generics.*" />
+          <option name="PATTERN" value="advance_java.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FortuneTelling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.FortuneTelling" />
+    <configuration name="Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advance_java.linkedLists.Linked_List" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.generics.*" />
+          <option name="PATTERN" value="advance_java.linkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +109,7 @@
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.generics.*" />
+          <option name="PATTERN" value="advance_java.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,7 +122,7 @@
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.generics.*" />
+          <option name="PATTERN" value="advance_java.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.generics.Varargs" />
+      <option name="MAIN_CLASS_NAME" value="advance_java.generics.Varargs" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.generics.*" />
+          <option name="PATTERN" value="advance_java.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Linked_List" />
         <item itemvalue="Application.Varargs" />
         <item itemvalue="Application.CalculateAreaOfATriangle" />
         <item itemvalue="Application.QuestionsAndAnswer" />
         <item itemvalue="Application.PlaySong" />
-        <item itemvalue="Application.FortuneTelling" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +166,7 @@
       <workItem from="1674764781649" duration="5109000" />
       <workItem from="1674858154089" duration="9187000" />
       <workItem from="1674926763822" duration="24824000" />
-      <workItem from="1675074815905" duration="13305000" />
+      <workItem from="1675074815905" duration="19668000" />
     </task>
     <servers />
   </component>

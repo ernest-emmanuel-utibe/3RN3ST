@@ -1,4 +1,4 @@
-package arrays.generics;
+package advance_java.generics;
 
 public class Varargs {
     public static void main(String[] args) {
