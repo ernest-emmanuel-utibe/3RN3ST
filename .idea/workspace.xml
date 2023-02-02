@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/Format.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/GuessBirthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/HexDigitToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/LotteryUsingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiThreading/ThreadState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiThreading/WhatNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +54,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="multiThreading" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -155,7 +156,8 @@
       <workItem from="1674926763822" duration="24824000" />
       <workItem from="1675074815905" duration="19747000" />
       <workItem from="1675155406063" duration="6000" />
-      <workItem from="1675188252586" duration="3384000" />
+      <workItem from="1675188252586" duration="4933000" />
+      <workItem from="1675303112814" duration="745000" />
     </task>
     <servers />
   </component>
