@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/CalculateCirceArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/FactorialOfANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/FindMaximumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/FloatValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/GeneratePyramidOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/MarksScored.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/NestedSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/Product_Sum_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/PyramidOfStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/ReversedPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/StringOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selfPractice/MagicNumberGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selfPractice/RepeatAndAddQuiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,9 +65,9 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
-    <configuration name="FloatValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.FloatValue" />
+  <component name="RunManager" selected="Application.MagicNumberGuess">
+    <configuration name="MagicNumberGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfPractice.MagicNumberGuess" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.RandomNumbers" />
+    <configuration name="RepeatAndAddQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfPractice.RepeatAndAddQuiz" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MagicNumberGuess" />
+        <item itemvalue="Application.RepeatAndAddQuiz" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.StringOutput" />
         <item itemvalue="Application.SumOfDigits" />
-        <item itemvalue="Application.RandomNumbers" />
-        <item itemvalue="Application.FloatValue" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +162,7 @@
       <workItem from="1675380009192" duration="1054000" />
       <workItem from="1675386485253" duration="589000" />
       <workItem from="1675508774029" duration="2226000" />
+      <workItem from="1675523289894" duration="3967000" />
     </task>
     <servers />
   </component>
