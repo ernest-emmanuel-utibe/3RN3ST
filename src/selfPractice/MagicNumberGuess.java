@@ -7,7 +7,7 @@ public class MagicNumberGuess {
         int number = (int) (Math.random() * 101);
 
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter the magic number form 0 - 100");
+        System.out.print("Enter the magic number from 0 - 100");
 
         int guess = -1;
         while(guess != number) {
