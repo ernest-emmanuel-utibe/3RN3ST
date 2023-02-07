@@ -1,4 +1,4 @@
-package selfPractice;
+package loops.forLoops;
 
 public class RandomNumbers {
     public static void main(String[] args) {

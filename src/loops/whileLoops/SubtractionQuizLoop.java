@@ -1,6 +1,4 @@
-package selfPractice;
-
-import java.io.StringReader;
+package loops.whileLoops;
 import java.util.Scanner;
 
 public class SubtractionQuizLoop {

@@ -1,4 +1,4 @@
-package selfPractice;
+package loops.whileLoops;
 
 import java.io.IOException;
 import java.util.Scanner;

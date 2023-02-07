@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loops/forLoops/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selfPractice/SentinelValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/whileLoops/SentinelValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/forLoops/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/forLoops/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selfPractice/PlaySong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/forLoops/PlaySong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selfPractice/PyramidOfStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/forLoops/PyramidOfStars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selfPractice/RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/forLoops/RandomNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selfPractice/RepeatAndAddQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/whileLoops/RepeatAndAddQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selfPractice/ReversedPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/forLoops/ReversedPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selfPractice/StringOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/forLoops/StringOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selfPractice/SubtractionQuizLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/whileLoops/SubtractionQuizLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selfPractice/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/forLoops/SumOfDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +99,7 @@
       </method>
     </configuration>
     <configuration name="RepeatAndAddQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.RepeatAndAddQuiz" />
+      <option name="MAIN_CLASS_NAME" value="loops.whileLoops.RepeatAndAddQuiz" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
@@ -162,7 +168,7 @@
       <workItem from="1675380009192" duration="1054000" />
       <workItem from="1675386485253" duration="589000" />
       <workItem from="1675508774029" duration="2226000" />
-      <workItem from="1675523289894" duration="10786000" />
+      <workItem from="1675523289894" duration="11834000" />
     </task>
     <servers />
   </component>
