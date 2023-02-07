@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/SentinelValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selfPractice/SubtractionQuizLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/forLoops/MultiplicationTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selfPractice/MagicNumberGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selfPractice/MagicNumberGuess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selfPractice/SentinelValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/whileLoops/SentinelValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +65,13 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SentinelValue">
+  <component name="RunManager" selected="Application.loops.forLoops.MultiplicationTable">
     <configuration name="MagicNumberGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="selfPractice.MagicNumberGuess" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfPractice.*" />
+          <option name="PATTERN" value="loops.whileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,7 +84,7 @@
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfPractice.*" />
+          <option name="PATTERN" value="loops.whileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,7 +97,7 @@
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfPractice.*" />
+          <option name="PATTERN" value="loops.whileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +106,11 @@
       </method>
     </configuration>
     <configuration name="SentinelValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.SentinelValue" />
+      <option name="MAIN_CLASS_NAME" value="loops.whileLoops.SentinelValue" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfPractice.*" />
+          <option name="PATTERN" value="loops.whileLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.StringOutput" />
+    <configuration name="loops.forLoops.MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.forLoops.MultiplicationTable" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfPractice.*" />
+          <option name="PATTERN" value="loops.forLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.loops.forLoops.MultiplicationTable" />
         <item itemvalue="Application.SentinelValue" />
         <item itemvalue="Application.MagicNumberGuess" />
         <item itemvalue="Application.RepeatAndAddQuiz" />
         <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.StringOutput" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +162,7 @@
       <workItem from="1675380009192" duration="1054000" />
       <workItem from="1675386485253" duration="589000" />
       <workItem from="1675508774029" duration="2226000" />
-      <workItem from="1675523289894" duration="8652000" />
+      <workItem from="1675523289894" duration="10786000" />
     </task>
     <servers />
   </component>
