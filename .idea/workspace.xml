@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loops/forLoops/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/arraysLoops/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/arraysLoops/StringSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/whileLoops/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selfPractice/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selfPractice/StaticMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +68,7 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Continue">
+  <component name="RunManager" selected="Application.StaticMethod">
     <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops.forLoops.Continue" />
       <module name="ErnestEmmanuel" />
@@ -78,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagicNumberGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.MagicNumberGuess" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.whileLoops.Palindrome" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatAndAddQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.whileLoops.RepeatAndAddQuiz" />
+    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.arraysLoops.SortArray" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.whileLoops.*" />
+          <option name="PATTERN" value="loops.arraysLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentinelValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.whileLoops.SentinelValue" />
+    <configuration name="StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfPractice.StaticMethod" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.whileLoops.*" />
+          <option name="PATTERN" value="selfPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loops.forLoops.MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.forLoops.MultiplicationTable" />
+    <configuration name="StringSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.arraysLoops.StringSort" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.forLoops.*" />
+          <option name="PATTERN" value="loops.arraysLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticMethod" />
+        <item itemvalue="Application.StringSort" />
+        <item itemvalue="Application.SortArray" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Continue" />
-        <item itemvalue="Application.loops.forLoops.MultiplicationTable" />
-        <item itemvalue="Application.SentinelValue" />
-        <item itemvalue="Application.MagicNumberGuess" />
-        <item itemvalue="Application.RepeatAndAddQuiz" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +166,8 @@
       <workItem from="1675386485253" duration="589000" />
       <workItem from="1675508774029" duration="2226000" />
       <workItem from="1675523289894" duration="14669000" />
-      <workItem from="1675820852358" duration="950000" />
+      <workItem from="1675820852358" duration="10587000" />
+      <workItem from="1676070771659" duration="1453000" />
     </task>
     <servers />
   </component>
