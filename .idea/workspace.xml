@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeTasks/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ifStatements/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/arraysLoops/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/switch_statements/FallThrough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/switch_statements/StringSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/switch_statements/YearLooping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +168,7 @@
       <workItem from="1675523289894" duration="14669000" />
       <workItem from="1675820852358" duration="10587000" />
       <workItem from="1676070771659" duration="1453000" />
-      <workItem from="1676163098467" duration="1359000" />
+      <workItem from="1676163098467" duration="2882000" />
     </task>
     <servers />
   </component>
