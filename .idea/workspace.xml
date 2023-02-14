@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="" />
+    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/CoinTossing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/DistanceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/DivisibleBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/FloorAndCeil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/GuessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/Hypotenuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/LeapYearChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/Multiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/MultiplicationQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/MultiplicationQuiz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/PerfectNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/RoundingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/SportsRecommenderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/SquareOfAsterisks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/TemperatureConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,27 +48,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="multiThreading" />
@@ -167,6 +185,8 @@
       <workItem from="1676369689719" duration="538000" />
       <workItem from="1676370553845" duration="123000" />
       <workItem from="1676373417281" duration="3642000" />
+      <workItem from="1676381191732" duration="1497000" />
+      <workItem from="1676407112156" duration="2091000" />
     </task>
     <servers />
   </component>
