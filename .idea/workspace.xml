@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/CoinTossing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/DistanceCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/DivisibleBy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/FloorAndCeil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/GuessTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/Hypotenuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/LeapYearChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/Multiples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/MultiplicationQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/MultiplicationQuiz2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/PerfectNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/RoundingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/SportsRecommenderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/SquareOfAsterisks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5to7/TemperatureConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +168,7 @@
       <workItem from="1676370553845" duration="123000" />
       <workItem from="1676373417281" duration="3642000" />
       <workItem from="1676381191732" duration="1497000" />
-      <workItem from="1676407112156" duration="2091000" />
+      <workItem from="1676407112156" duration="2405000" />
     </task>
     <servers />
   </component>

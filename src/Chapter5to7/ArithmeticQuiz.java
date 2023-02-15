@@ -123,5 +123,6 @@ public class ArithmeticQuiz {
                 System.out.println("No. Keep trying.");
                 break;
         }
+        return getIncorrectResponse();
     }
 }
