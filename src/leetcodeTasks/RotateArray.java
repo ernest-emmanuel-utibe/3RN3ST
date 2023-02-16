@@ -16,8 +16,6 @@ public class RotateArray {
                 }
             }
             else {
-                //result[nums.length / 2] = nums[nums.length - 1];
-
                 if (i % 2 == 0) {
                     if (i== nums.length - 1) {
                         result.add(nums.length/2,nums[nums.length - 1]);
@@ -25,15 +23,10 @@ public class RotateArray {
                     else{
                         result.add(nums[nums.length - 2 - i / 2]);
                     }
-
-
                 }
                 else {
-
                     result.add(nums[nums.length / 2 - (i + 1) / 2]);
-
                 }
-
             }
         }
 //        if (k > nums.length)
