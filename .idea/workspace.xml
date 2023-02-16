@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="" />
+    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcodeTasks/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,13 +66,13 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TodoList">
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.whileLoops.Palindrome" />
+  <component name="RunManager" selected="Application.RotateArray">
+    <configuration name="MultiplicationQuiz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5to7.MultiplicationQuiz2" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.whileLoops.*" />
+          <option name="PATTERN" value="Chapter5to7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.arraysLoops.SortArray" />
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeTasks.RotateArray" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.arraysLoops.*" />
+          <option name="PATTERN" value="leetcodeTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.MultiplicationQuiz2" />
         <item itemvalue="Application.TodoList" />
         <item itemvalue="Application.StaticMethod" />
         <item itemvalue="Application.StringSort" />
-        <item itemvalue="Application.SortArray" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +171,9 @@
       <workItem from="1676370553845" duration="123000" />
       <workItem from="1676373417281" duration="3642000" />
       <workItem from="1676381191732" duration="1497000" />
-      <workItem from="1676407112156" duration="2405000" />
+      <workItem from="1676407112156" duration="3336000" />
+      <workItem from="1676566183514" duration="119000" />
+      <workItem from="1676583235519" duration="3678000" />
     </task>
     <servers />
   </component>
