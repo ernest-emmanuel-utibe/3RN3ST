@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeTasks/ConvertToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewTasks/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcodeTasks/StrongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +174,7 @@
       <workItem from="1676381191732" duration="1497000" />
       <workItem from="1676407112156" duration="3336000" />
       <workItem from="1676566183514" duration="119000" />
-      <workItem from="1676583235519" duration="4273000" />
+      <workItem from="1676583235519" duration="8755000" />
     </task>
     <servers />
   </component>
