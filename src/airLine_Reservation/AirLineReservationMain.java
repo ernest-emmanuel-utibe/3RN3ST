@@ -1,6 +1,8 @@
 package airLine_Reservation;
 import java.util.Scanner;
 
+import static airLine_Reservation.AirLineReservation.*;
+
 public class AirLineReservationMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

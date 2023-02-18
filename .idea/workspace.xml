@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/airLine_Reservation/AirLineReservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeGym/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emailApplication/EmailApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emailApplication/EmailApplicationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emailApplication/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/airLine_Reservation/AirLineReservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/airLine_Reservation/AirLineReservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/airLine_Reservation/AirLineReservationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/airLine_Reservation/AirLineReservationMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +61,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="emailApplication" />
       <recent name="multiThreading" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -66,7 +72,7 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertToBinary">
+  <component name="RunManager" selected="Application.Sum">
     <configuration name="ConvertToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeTasks.ConvertToBinary" />
       <module name="ErnestEmmanuel" />
@@ -106,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfPractice.StaticMethod" />
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeGym.Sum" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfPractice.*" />
+          <option name="PATTERN" value="codeGym.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum" />
         <item itemvalue="Application.ConvertToBinary" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.MultiplicationQuiz2" />
         <item itemvalue="Application.TodoList" />
-        <item itemvalue="Application.StaticMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +179,7 @@
       <workItem from="1676381191732" duration="1497000" />
       <workItem from="1676407112156" duration="3336000" />
       <workItem from="1676566183514" duration="119000" />
-      <workItem from="1676583235519" duration="10367000" />
+      <workItem from="1676583235519" duration="15860000" />
     </task>
     <servers />
   </component>

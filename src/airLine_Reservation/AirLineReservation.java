@@ -5,7 +5,7 @@ public class AirLineReservation {
     private static final int NUMBER_OF_SEATS = 10;
     private static boolean[] seats = new boolean[NUMBER_OF_SEATS];
 
-    private static void checkAvailability() {
+    static void checkAvailability() {
         System.out.print("Enter the seat number you want to check: ");
         int seatNumber = getValidSeatNumber();
         if (seats[seatNumber - 1]) {
@@ -15,7 +15,7 @@ public class AirLineReservation {
         }
     }
 
-    private static void bookSeat() {
+    static void bookSeat() {
         System.out.print("Enter the seat number you want to book: ");
         int seatNumber = getValidSeatNumber();
         if (seats[seatNumber - 1]) {
@@ -26,7 +26,7 @@ public class AirLineReservation {
         }
     }
 
-    private static void cancelReservation() {
+    static void cancelReservation() {
         System.out.print("Enter the seat number you want to cancel: ");
         int seatNumber = getValidSeatNumber();
         if (!seats[seatNumber - 1]) {
