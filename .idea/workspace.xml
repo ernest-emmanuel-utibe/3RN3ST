@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codeGym/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/emailApplication/EmailApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/emailApplication/EmailApplicationMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/emailApplication/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emailApplication/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emailApplication/Sender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/airLine_Reservation/AirLineReservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/airLine_Reservation/AirLineReservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/airLine_Reservation/AirLineReservationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/airLine_Reservation/AirLineReservationMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/emailApplication/EmailApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailApplication/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/emailApplication/EmailApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailApplication/EmailApplicationMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +177,7 @@
       <workItem from="1676381191732" duration="1497000" />
       <workItem from="1676407112156" duration="3336000" />
       <workItem from="1676566183514" duration="119000" />
-      <workItem from="1676583235519" duration="15860000" />
+      <workItem from="1676583235519" duration="20482000" />
     </task>
     <servers />
   </component>
