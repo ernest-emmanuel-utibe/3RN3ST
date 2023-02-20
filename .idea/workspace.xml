@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/emailApplication/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/emailApplication/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/SortEm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/emailApplication/EmailApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailApplication/Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/emailApplication/EmailApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailApplication/EmailApplicationMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,7 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sum">
+  <component name="RunManager" selected="Application.SortEm">
     <configuration name="ConvertToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeTasks.ConvertToBinary" />
       <module name="ErnestEmmanuel" />
@@ -110,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortEm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.SortEm" />
+      <module name="ErnestEmmanuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeGym.Sum" />
       <module name="ErnestEmmanuel" />
@@ -123,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TodoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.arrayLists.TodoList" />
-      <module name="ErnestEmmanuel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.arrayLists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortEm" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.ConvertToBinary" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.MultiplicationQuiz2" />
-        <item itemvalue="Application.TodoList" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +175,8 @@
       <workItem from="1676407112156" duration="3336000" />
       <workItem from="1676566183514" duration="119000" />
       <workItem from="1676583235519" duration="20482000" />
+      <workItem from="1676822106523" duration="145000" />
+      <workItem from="1676865966922" duration="1519000" />
     </task>
     <servers />
   </component>
