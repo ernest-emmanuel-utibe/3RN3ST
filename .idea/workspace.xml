@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arithmeticQuiz/ArithmeticQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arithmeticQuiz/ArithmeticQuizMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/StringSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/LargestAndSecondLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/SortEm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/SortEm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringSorting">
+  <component name="RunManager" selected="Application.LargestAndSecondLargest">
     <configuration name="ArithmeticQuizMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arithmeticQuiz.ArithmeticQuizMain" />
       <module name="ErnestEmmanuel" />
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodeTasks.ConvertToBinary" />
+    <configuration name="LargestAndSecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.LargestAndSecondLargest" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcodeTasks.*" />
+          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestAndSecondLargest" />
+        <item itemvalue="Application.SortEm" />
         <item itemvalue="Application.StringSorting" />
         <item itemvalue="Application.ArithmeticQuizMain" />
-        <item itemvalue="Application.SortEm" />
         <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.ConvertToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +177,7 @@
       <workItem from="1676566183514" duration="119000" />
       <workItem from="1676583235519" duration="20482000" />
       <workItem from="1676822106523" duration="145000" />
-      <workItem from="1676865966922" duration="6241000" />
+      <workItem from="1676865966922" duration="8848000" />
     </task>
     <servers />
   </component>
