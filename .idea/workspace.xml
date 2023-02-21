@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hackerrankTasks/MinimumOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/StringSwap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/StringSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods/StringSwap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +178,8 @@
       <workItem from="1676822106523" duration="145000" />
       <workItem from="1676865966922" duration="9763000" />
       <workItem from="1676915841900" duration="2214000" />
-      <workItem from="1676951232774" duration="3538000" />
+      <workItem from="1676951232774" duration="3951000" />
+      <workItem from="1676965701198" duration="2666000" />
     </task>
     <servers />
   </component>
