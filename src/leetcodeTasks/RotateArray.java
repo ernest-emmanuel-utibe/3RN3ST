@@ -1,7 +1,6 @@
 package leetcodeTasks;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class RotateArray {
     public static ArrayList<Integer> rotate(int[] nums) {
@@ -12,7 +11,7 @@ public class RotateArray {
                     result.add(nums[nums.length - 1 - i / 2]);
                 }
                 else {
-                    result.add(nums[nums.length / 2- (i + 1) / 2]);
+                    result.add(nums[nums.length / 2 - (i + 1) / 2]);
                 }
             }
             else {
@@ -29,23 +28,12 @@ public class RotateArray {
                 }
             }
         }
-//        if (k > nums.length)
-//            k = k % nums.length;
-//        for(int i = 0; i < k; i++){
-//            result[i] = nums[nums.length-k+i];
-//        }
-//        int j = 0;
-//        for(int i = k; i < nums.length; i++){
-//            result[i] = nums[j];
-//            j++;
-//        }
-//        System.arraycopy( result, 0, nums, 0, nums.length );
         return result;
     }
 
 
     public static void main(String[] args) {
-        int[] numbers = {1, 2, 3, 4, 5, 6};
+        int[] numbers = {1, 2, 3, 4};
         System.out.println(rotate(numbers));
     }
 }
