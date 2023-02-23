@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dsa_Tasks/PrintArrayPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,13 +64,26 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentMain">
-    <configuration name="LargestAndSecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.LargestAndSecondLargest" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_Tasks.QuickSort" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.*" />
+          <option name="PATTERN" value="dsa_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_Tasks.RemoveDuplicates" />
+      <module name="ErnestEmmanuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa_Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,19 +97,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcodeTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortEm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.SortEm" />
-      <module name="ErnestEmmanuel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.StudentMain" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.StringSwap" />
-        <item itemvalue="Application.LargestAndSecondLargest" />
-        <item itemvalue="Application.SortEm" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +178,8 @@
       <workItem from="1676951232774" duration="3951000" />
       <workItem from="1676965701198" duration="4611000" />
       <workItem from="1677001403481" duration="4164000" />
-      <workItem from="1677020682642" duration="7519000" />
+      <workItem from="1677020682642" duration="7569000" />
+      <workItem from="1677144790295" duration="1986000" />
     </task>
     <servers />
   </component>

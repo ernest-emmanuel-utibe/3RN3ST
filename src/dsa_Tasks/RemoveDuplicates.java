@@ -13,7 +13,7 @@ import java.util.Arrays;
  *
  */
 public class RemoveDuplicates {
-    private static final Logger logger = LoggerFactory.getLogger(RemoveDuplicates.class);
+  //  private static final Logger logger = LoggerFactory.getLogger(RemoveDuplicates.class);
 
     public static void main(String[] args) {
         int[][] test = new int[][] {
