@@ -65,9 +65,22 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Emotions">
+  <component name="RunManager" selected="Application.GeometryCourse">
     <configuration name="Emotions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="soloLearn.Emotions" />
+      <module name="ErnestEmmanuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="soloLearn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeometryCourse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="soloLearn.GeometryCourse" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
@@ -118,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="student.StudentMain" />
-      <module name="ErnestEmmanuel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="student.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GeometryCourse" />
         <item itemvalue="Application.Emotions" />
         <item itemvalue="Application.NestedIfs" />
         <item itemvalue="Application.QuickSortMain" />
         <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.StudentMain" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +183,7 @@
       <workItem from="1677144790295" duration="3324000" />
       <workItem from="1677226505693" duration="5494000" />
       <workItem from="1677268519523" duration="132000" />
-      <workItem from="1677350555450" duration="3126000" />
+      <workItem from="1677350555450" duration="5150000" />
     </task>
     <servers />
   </component>

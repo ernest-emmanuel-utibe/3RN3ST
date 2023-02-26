@@ -1,7 +1,7 @@
 package dsa_Tasks;
 
 import java.util.Arrays;
-import org.apache.commons.lang.ArrayUtils;
+import java.util.Collections;
 
 public class ReverseIntegerAndString {
     public static void main(String[] args) {
@@ -9,11 +9,11 @@ public class ReverseIntegerAndString {
         String[] sArray = new String[]{"one", "two", "three", "four", "five", "six", "seven"};
 
         System.out.println("Original Integer Array: " + iArray + " " + Arrays.toString(iArray));
-        Arrays.reverse(iArray);
+        Collections.reverse(Collections.singletonList(iArray));
         System.out.println("New Array: " + iArray);
 
         System.out.println("Original String Array: " + sArray + " " + Arrays.toString(sArray));
-        ArrayUtils.reverse(sArray);
+        Collections.reverse(Collections.singletonList(sArray));
         System.out.println("New String Array: " + sArray);
     }
 }

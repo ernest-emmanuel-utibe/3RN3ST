@@ -16,6 +16,6 @@ public class SummingElementsInArrays {
                 sum += array[i];
             }
         }
-        System.out.println(sum);
+        System.out.println("The sum of the numbers that are multiples of 4 is " + sum);
     }
 }
