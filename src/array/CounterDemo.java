@@ -1,6 +1,4 @@
-package advance_java;
-
-import org.w3c.dom.css.Counter;
+package array;
 
 import java.util.Arrays;
 
