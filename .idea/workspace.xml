@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="" />
+    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,13 +75,13 @@
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RainFallInLagosTest">
-    <configuration name="CounterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance_java.CounterDemo" />
+  <component name="RunManager" selected="Application.ListAbles">
+    <configuration name="IntStream1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="files.IntStream1" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Emotions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soloLearn.Emotions" />
+    <configuration name="ListAbles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="files.ListAbles" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soloLearn.*" />
+          <option name="PATTERN" value="files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeometryCourse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soloLearn.GeometryCourse" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="files.Streams" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soloLearn.*" />
+          <option name="PATTERN" value="files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListAbles" />
+        <item itemvalue="Application.IntStream1" />
+        <item itemvalue="Application.Streams" />
         <item itemvalue="TestNG.RainFallInLagosTest" />
         <item itemvalue="TestNG.RainFallInLagosTest.numberOfRainFallInJulyTests" />
-        <item itemvalue="Application.CounterDemo" />
-        <item itemvalue="Application.GeometryCourse" />
-        <item itemvalue="Application.Emotions" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +210,9 @@
       <workItem from="1678283077978" duration="3086000" />
       <workItem from="1678442029813" duration="37000" />
       <workItem from="1678442223070" duration="6259000" />
+      <workItem from="1678559724200" duration="3311000" />
+      <workItem from="1678725754642" duration="2278000" />
+      <workItem from="1678729285273" duration="1337000" />
     </task>
     <servers />
   </component>
