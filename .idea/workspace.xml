@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/array/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/array/ReverseArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="TestNG Test Class" />
         <option value="Class" />
+        <option value="TestNG Test Class" />
       </list>
     </option>
   </component>
@@ -68,14 +70,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="array" />
       <recent name="RainFallPrediction" />
       <recent name="soloLearn" />
-      <recent name="array" />
       <recent name="Chapter5to7" />
       <recent name="Chapter2To4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListAbles">
+  <component name="RunManager" selected="Application.ReverseArrayTest">
     <configuration name="IntStream1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="files.IntStream1" />
       <module name="ErnestEmmanuel" />
@@ -102,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ReverseArrayTest" />
+      <module name="ErnestEmmanuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="files.Streams" />
       <module name="ErnestEmmanuel" />
@@ -115,48 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RainFallInLagosTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="X_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.X_Pattern" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RainFallPrediction.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RainFallPrediction" />
-      <option name="MAIN_CLASS_NAME" value="RainFallPrediction.RainFallInLagosTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RainFallInLagosTest.numberOfRainFallInJulyTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ErnestEmmanuel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RainFallPrediction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="RainFallPrediction" />
-      <option name="MAIN_CLASS_NAME" value="RainFallPrediction.RainFallInLagosTest" />
-      <option name="METHOD_NAME" value="numberOfRainFallInJulyTests" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArrayTest" />
+        <item itemvalue="Application.X_Pattern" />
         <item itemvalue="Application.ListAbles" />
         <item itemvalue="Application.IntStream1" />
         <item itemvalue="Application.Streams" />
-        <item itemvalue="TestNG.RainFallInLagosTest" />
-        <item itemvalue="TestNG.RainFallInLagosTest.numberOfRainFallInJulyTests" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +206,10 @@
       <workItem from="1678559724200" duration="3311000" />
       <workItem from="1678725754642" duration="2278000" />
       <workItem from="1678729285273" duration="1337000" />
+      <workItem from="1678903671989" duration="665000" />
+      <workItem from="1678908817076" duration="1574000" />
+      <workItem from="1678966326289" duration="397000" />
+      <workItem from="1678984133766" duration="5267000" />
     </task>
     <servers />
   </component>
