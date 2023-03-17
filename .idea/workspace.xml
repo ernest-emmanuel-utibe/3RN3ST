@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/array/ReverseArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ReverseArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +208,8 @@
       <workItem from="1678903671989" duration="665000" />
       <workItem from="1678908817076" duration="1574000" />
       <workItem from="1678966326289" duration="397000" />
-      <workItem from="1678984133766" duration="5267000" />
+      <workItem from="1678984133766" duration="6143000" />
+      <workItem from="1679037765188" duration="946000" />
     </task>
     <servers />
   </component>
