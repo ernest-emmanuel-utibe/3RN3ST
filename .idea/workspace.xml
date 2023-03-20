@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/array/StringCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SumOfMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/array/SumOfMultipleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/array/ReverseArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/array/ReverseArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="TestNG Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,19 +80,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.ReverseArrayTest">
-    <configuration name="IntStream1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.IntStream1" />
-      <module name="ErnestEmmanuel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ListAbles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="files.ListAbles" />
       <module name="ErnestEmmanuel" />
@@ -116,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.Streams" />
+    <configuration name="StringCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.StringCheck" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,13 +132,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfMultipleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ErnestEmmanuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="array" />
+      <option name="MAIN_CLASS_NAME" value="array.SumOfMultipleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ReverseArrayTest" />
+        <item itemvalue="Application.StringCheck" />
+        <item itemvalue="TestNG.SumOfMultipleTest" />
         <item itemvalue="Application.X_Pattern" />
         <item itemvalue="Application.ListAbles" />
-        <item itemvalue="Application.IntStream1" />
-        <item itemvalue="Application.Streams" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +216,9 @@
       <workItem from="1678908817076" duration="1574000" />
       <workItem from="1678966326289" duration="397000" />
       <workItem from="1678984133766" duration="6143000" />
-      <workItem from="1679037765188" duration="946000" />
+      <workItem from="1679037765188" duration="2046000" />
+      <workItem from="1679166864532" duration="2771000" />
+      <workItem from="1679320540158" duration="517000" />
     </task>
     <servers />
   </component>

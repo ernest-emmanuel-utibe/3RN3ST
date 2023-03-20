@@ -9,7 +9,6 @@ public class ReverseArrayTest {
 
         System.out.print("The Reversed Array is: ");
         System.out.println(Arrays.toString(reverseArray.reverseAnArray(number)));
-//        System.out.println(Arrays.toString(number));
     }
 
 }
