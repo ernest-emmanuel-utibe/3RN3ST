@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/StringCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SumOfMultiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/array/SumOfMultipleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Reverse_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_Tasks/ReversalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_Tasks/ReverseString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_Tasks/ReverseTrad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dsa_Tasks/ReversalArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dsa_Tasks/ReverseString1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dsa_Tasks/ReverseTradTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/array/ReverseArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/array/ReverseArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +75,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="dsa_Tasks" />
       <recent name="array" />
       <recent name="RainFallPrediction" />
       <recent name="soloLearn" />
       <recent name="Chapter5to7" />
-      <recent name="Chapter2To4" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ReverseArrayTest">
@@ -218,7 +221,8 @@
       <workItem from="1678984133766" duration="6143000" />
       <workItem from="1679037765188" duration="2046000" />
       <workItem from="1679166864532" duration="2771000" />
-      <workItem from="1679320540158" duration="517000" />
+      <workItem from="1679320540158" duration="862000" />
+      <workItem from="1679353717506" duration="2172000" />
     </task>
     <servers />
   </component>
