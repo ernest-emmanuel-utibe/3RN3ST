@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/Reverse_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_Tasks/ReversalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_Tasks/ReverseString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_Tasks/ReverseTrad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dsa_Tasks/ReversalArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dsa_Tasks/ReverseString1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dsa_Tasks/ReverseTradTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daily_practice/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,13 +76,26 @@
       <recent name="Chapter5to7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseArrayTest">
-    <configuration name="ListAbles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.ListAbles" />
+  <component name="RunManager" selected="Application.ReversalArrayTest">
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daily_practice.PrimeNumber" />
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="daily_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversalArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_Tasks.ReversalArrayTest" />
+      <module name="ErnestEmmanuel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa_Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="X_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.X_Pattern" />
-      <module name="ErnestEmmanuel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumOfMultipleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ErnestEmmanuel" />
       <extension name="coverage">
@@ -154,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReversalArrayTest" />
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.ReverseArrayTest" />
         <item itemvalue="Application.StringCheck" />
         <item itemvalue="TestNG.SumOfMultipleTest" />
-        <item itemvalue="Application.X_Pattern" />
-        <item itemvalue="Application.ListAbles" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +216,9 @@
       <workItem from="1679037765188" duration="2046000" />
       <workItem from="1679166864532" duration="2771000" />
       <workItem from="1679320540158" duration="862000" />
-      <workItem from="1679353717506" duration="2172000" />
+      <workItem from="1679353717506" duration="2495000" />
+      <workItem from="1679421930879" duration="1097000" />
+      <workItem from="1679471550592" duration="3374000" />
     </task>
     <servers />
   </component>

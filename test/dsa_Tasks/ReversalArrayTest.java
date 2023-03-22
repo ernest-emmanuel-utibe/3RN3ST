@@ -1,9 +1,6 @@
 package dsa_Tasks;
-
 import java.util.Arrays;
-
 import static dsa_Tasks.ReversalArray.reverseArray;
-import static org.testng.Assert.*;
 
 public class ReversalArrayTest {
     public static void main(String[] args) {
