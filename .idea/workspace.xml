@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/daily_practice/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9321cc02-cd50-4b8b-b59c-aa3e81780f36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,6 +216,7 @@
       <workItem from="1679353717506" duration="2495000" />
       <workItem from="1679421930879" duration="1097000" />
       <workItem from="1679471550592" duration="3374000" />
+      <workItem from="1679517993175" duration="444000" />
     </task>
     <servers />
   </component>

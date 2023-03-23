@@ -1,24 +1,16 @@
 package daily_practice;
 
-import java.util.Scanner;
-
 public class PrimeNumber {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.print("Enter a number: ");
-        int number = scanner.nextInt();
-
-        if (number % 2 == 1){
-            System.out.println("This is an even number");
+    public static boolean isPrime(int n) {
+        if (n < 2) {     // 0 and 1 are not prime
+            return false;
         }
-
-        if (number % 2 != 0){
-            System.out.println("This is an odd number");
+        for (int i = 2; i <= Math.sqrt(n); i++) {  // check up to the square root of n
+            if (n % i == 0) {  // if n is divisible by any number in the range, it is not prime
+                return false;
+            }
         }
-
-        if (number % 3 != 0){
-            System.out.println("This is a prime number");
-        }
+        return true;  // if no divisors are found, n is prime
     }
 }
+
