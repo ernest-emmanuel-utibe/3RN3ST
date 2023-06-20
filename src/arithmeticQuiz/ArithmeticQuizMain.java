@@ -5,7 +5,6 @@ import java.util.Scanner;
 import static arithmeticQuiz.ArithmeticQuiz.*;
 
 public class ArithmeticQuizMain {
-//    private ArithmeticQuiz arithmeticQuiz;
 
     private static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
